@@ -1,0 +1,26 @@
+      // const {test} = data;
+        // const variantPlaceholder : IVariant[] = [];
+        //     if (items.length > 0) {
+        //         items.map((data, index) => (
+        //             data.options.name !== '' && data.options.value.map((name, id) => {
+        //                 const option = name.name;
+        //                 const variant = data.options.name;
+        //                 const price =  test[index].stock[id].price;
+        //                 const stock = test[index].stock[id].name
+        //                 const newData : IVariant = {
+        //                     variant,
+        //                     option,
+        //                     price,
+        //                     stock
+        //                 }
+        //                 variantPlaceholder.push(newData)
+        //             })))
+        //         const createProduct = {
+        //             ...data,
+        //             subcategory: data.subCategory,
+        //             shippingDetail: data.details,
+        //             instruction: data.care,
+        //             photo,
+        //             variants: variantPlaceholder
+        //         }
+        //         mutate(createProduct)
